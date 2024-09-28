@@ -17,6 +17,8 @@
 <h3>OMGD Superstar GAN - 20 epochs - AFHQ</h3>
 <img width="641" alt="image" src="https://github.com/user-attachments/assets/3c4d0b78-0eee-406b-9b2f-5cc2959efabe">
 <img width="671" alt="image" src="https://github.com/user-attachments/assets/4a0a9657-a4c0-4e19-8d81-74f7f33c4bcd">
+<h3>Image Generated using the given specifications</h3>
+<img width="478" alt="image" src="https://github.com/user-attachments/assets/9fe44d5d-0466-4fb0-924f-492aab42913c">
 <h3>Latency comparison</h3>
 <img width="603" alt="image" src="https://github.com/user-attachments/assets/93de2144-a188-4683-b8c0-f2848918435f">
 
