@@ -19,3 +19,8 @@
 <img width="671" alt="image" src="https://github.com/user-attachments/assets/4a0a9657-a4c0-4e19-8d81-74f7f33c4bcd">
 <h3>Latency comparison</h3>
 <img width="603" alt="image" src="https://github.com/user-attachments/assets/93de2144-a188-4683-b8c0-f2848918435f">
+
+<h1>REFERENCES</h1>
+<p>[1] https://github.com/yunjey/stargan</p>
+<p>[2] https://github.com/KKhyeok/SuperstarGAN</p>
+<p>[3] https://github.com/bytedance/OMGD</p>
