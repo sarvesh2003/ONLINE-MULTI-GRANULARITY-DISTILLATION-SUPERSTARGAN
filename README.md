@@ -1,4 +1,16 @@
-<h1>Outputs</h1>
+# SuperStarGAN Compression with Online Multi-Granularity Distillation
+
+Compressed SuperStarGAN for real-time multi-domain image synthesis on resource-constrained devices.
+
+**Results:**
+- 43x reduction in MACs (13.1G → 0.3G)
+- 37x latency improvement (250ms → 6.7ms on Mac M1)
+- Maintained competitive FID/LPIPS scores
+
+**Datasets:** CelebA, AFHQ, Painters14
+
+## Outputs
+
 <br>
 <h3>Super star GAN - 10k epochs - CelebA</h3>
 <img width="1036" alt="image" src="https://github.com/user-attachments/assets/cd91299e-b91a-4a67-b20b-719c66413a70">
